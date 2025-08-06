@@ -1,8 +1,0 @@
-{
-  "name": "Solana CLI Dev",
-  "image": "ubuntu",
-  "postCreateCommand": "./setup.sh",
-  "features": {
-    "ghcr.io/devcontainers/features/common-utils:1": {}
-  }
-}
